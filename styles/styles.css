@@ -40,6 +40,42 @@ body {
     display: none;
     /*
     */
+}
+
+.nucleo {
+
+    align-items: center;
+    vertical-align: middle;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    max-width: 20vw;
+    width: 10vw;
+    height: auto;
+
+    margin-left: auto;
+    margin-right: auto;
+    /*
+    vertical-align: middle;
     
     
+    */
+
+}
+
+.reloj {
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.relog>li>img {
+    max-width: 20vw;
+    max-height: 20vh;
+    height: 10vw;
+    width: auto;
 }
